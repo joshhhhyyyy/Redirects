@@ -6,7 +6,7 @@ It just redirs the user to the website
 
 ## Instructions
 Download the folder SAMPLE from code or release
-change the website link in index.html
+replace the website link in index.html
 
 ## Index
 the website it redirects to is the folder name :)
