@@ -5,6 +5,7 @@ hehe troll time, anyones free to fork this
 It just redirs the user to the website
 
 ## Instructions
+Download the folder SAMPLE
 change the website link in index.html
 
 ## Index
