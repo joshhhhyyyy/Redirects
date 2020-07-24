@@ -5,7 +5,7 @@ hehe troll time, anyones free to fork this
 It just redirs the user to the website
 
 ## Instructions
-Download the folder SAMPLE from code or release
+Download the folder SAMPLE from code or [releases](https://github.com/Joseos123/Redirects/releases) 
 replace the website link in index.html
 
 ## Index
